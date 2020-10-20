@@ -12,7 +12,7 @@ Image(filename='otracarpeta/Procesamiento.png',width=700,height=700)
 
 
 
-![png](output_2_0.png)
+![png](img/output_2_0.png)
 
 
 

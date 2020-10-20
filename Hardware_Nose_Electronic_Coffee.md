@@ -14,7 +14,7 @@ Image(filename='otracarpeta/Esquema.png',width=400,height=400)
 
 
 
-![png](output_2_0.png)
+![png](img/output_2_0.png)
 
 
 
@@ -30,7 +30,7 @@ Image(filename='otracarpeta/prototipo1.jpeg',width=400,height=400)
 
 
 
-![jpeg](output_4_0.jpeg)
+![jpeg](img/output_4_0.jpeg)
 
 
 
@@ -43,7 +43,7 @@ Image(filename='otracarpeta/prototipo2.jpeg',width=400,height=400)
 
 
 
-![jpeg](output_5_0.jpeg)
+![jpeg](img/output_5_0.jpeg)
 
 
 
@@ -56,7 +56,7 @@ Image(filename='otracarpeta/real.JPG',width=400,height=400)
 
 
 
-![jpeg](output_6_0.jpeg)
+![jpeg](img/output_6_0.jpeg)
 
 
 
@@ -73,7 +73,7 @@ Image(filename='otracarpeta/tabla1.png',width=400,height=400)
 
 
 
-![png](output_8_0.png)
+![png](img/output_8_0.png)
 
 
 
@@ -89,7 +89,7 @@ Image(filename='otracarpeta/DisenoSensors.png',width=400,height=400)
 
 
 
-![png](output_10_0.png)
+![png](img/output_10_0.png)
 
 
 
@@ -102,7 +102,7 @@ Image(filename='otracarpeta/sensors.JPG',width=200,height=200)
 
 
 
-![jpeg](output_11_0.jpeg)
+![jpeg](img/output_11_0.jpeg)
 
 
 
@@ -118,7 +118,7 @@ Image(filename='otracarpeta/ST.png',width=400,height=400)
 
 
 
-![png](output_13_0.png)
+![png](img/output_13_0.png)
 
 
 
@@ -130,7 +130,7 @@ Image(filename='otracarpeta/ST3D.jpeg',width=400,height=400)
 
 
 
-![jpeg](output_14_0.jpeg)
+![jpeg](img/output_14_0.jpeg)
 
 
 
@@ -142,7 +142,7 @@ Image(filename='otracarpeta/IMG_6491.JPG',width=400,height=400)
 
 
 
-![jpeg](output_15_0.jpeg)
+![jpeg](img/output_15_0.jpeg)
 
 
 
@@ -154,7 +154,7 @@ Image(filename='otracarpeta/IMG_6489.JPG',width=400,height=400)
 
 
 
-![jpeg](output_16_0.jpeg)
+![jpeg](img/output_16_0.jpeg)
 
 
 
@@ -168,11 +168,9 @@ Image(filename='otracarpeta/SGF.png',width=500,height=500)
 
 
 
-![png](output_18_0.png)
+![png](img/output_18_0.png)
 
 
 
 
-```python
 
-```
