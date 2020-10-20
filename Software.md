@@ -1,7 +1,7 @@
 # **ELECTRONIC NOSE FOR DETECTION OF DEFECTS IN COFFEE SOFTWARE** #
 
 
-### The following figure illustrates the general scheme of the different stages in digital data processing.
+ The following figure illustrates the general scheme of the different stages in digital data processing.
 
 
 
@@ -32,7 +32,7 @@ $$
  $$ 
 
 ### * **Feature Extraction**
-#### The most common characteristics for data processing are the transient characteristics that contain the dynamics of the sensor and the sample. The transient characteristics correspond to the steady state value, the rise time, the rise integral, the maximum rise value and the maximum fall value of the sensor response.
+ The most common characteristics for data processing are the transient characteristics that contain the dynamics of the sensor and the sample. The transient characteristics correspond to the steady state value, the rise time, the rise integral, the maximum rise value and the maximum fall value of the sensor response.
 
 #### Any mathematical method can be used to analyze these characteristics. of cluster, neural networks, vector support machine, among others.
 
@@ -445,13 +445,13 @@ Image(filename='otracarpeta/biplot3D.png',width=600,height=600)
 
 
 
-![png](output_24_0.png)
+![png](img/output_24_0.png)
 
 
 
-#### In the previous graph it can be determined that the rise integral,the maximum fall value and the maximum rise value of the sensor response;these characteristics that provide discriminant information. On the other hand, the characteristics that least contribute discriminant information is the value maximum rise of sensor S4 and rise time of sensor S4.
+ In the previous graph it can be determined that the rise integral,the maximum fall value and the maximum rise value of the sensor response;these characteristics that provide discriminant information. On the other hand, the characteristics that least contribute discriminant information is the value maximum rise of sensor S4 and rise time of sensor S4.
 
-#### In order to explore whether the features that provide more discriminant information allow to detect a grouping in the data of the different coffee samples, I know first apply the method to the characteristic matrix of the maximum fall value of the sensor response. The following graph clearly shows a grouping of data for excellent coffee samples and to a lesser extent the grouping of coffee samples with phenol and coffee samples.
+ In order to explore whether the features that provide more discriminant information allow to detect a grouping in the data of the different coffee samples, I know first apply the method to the characteristic matrix of the maximum fall value of the sensor response. The following graph clearly shows a grouping of data for excellent coffee samples and to a lesser extent the grouping of coffee samples with phenol and coffee samples.
 
 
 ### * **Principal component analysis**
@@ -504,16 +504,14 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](img/output_28_0.png)
 
 
-### With the results obtained it can be determined that the system is viable for the detection of patterns associated with defects in coffee samples, although it raises concerns regarding parameters of repetitiveness in the data.
+ With the results obtained it can be determined that the system is viable for the detection of patterns associated with defects in coffee samples, although it raises concerns regarding parameters of repetitiveness in the data.
 
 ### **CONCLUSIONS**
 
-#### * It was determined that the system based on electrochemical MQ sensors together with a principal component analysis is viable to identify patterns associated with defects in coffee. This exploratory analysis allows the reduction of the volume of data that can subsequently enter an algorithm of classification or pattern recognition.
+ * It was determined that the system based on electrochemical MQ sensors together with a principal component analysis is viable to identify patterns associated with defects in coffee. This exploratory analysis allows the reduction of the volume of data that can subsequently enter an algorithm of classification or pattern recognition.
 
 
-```python
 
-```
