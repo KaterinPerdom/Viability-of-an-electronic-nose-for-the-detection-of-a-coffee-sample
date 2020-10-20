@@ -4,10 +4,7 @@
 ### The following figure illustrates the general scheme of the different stages in digital data processing.
 
 
-```python
-from IPython.display import Image
-Image(filename='otracarpeta/Procesamiento.png',width=700,height=700)
-```
+
 
 
 
