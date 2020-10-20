@@ -433,7 +433,7 @@ visualizer.poof()
 ```
 
 
-![png](output_23_0.png)
+![png](img/output_23_0.png)
 
 
 
