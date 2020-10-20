@@ -13,16 +13,16 @@
 
 
 
-#### In the analysis carried out, it was considered that the response of the sensors should be conditioned for the digital processing of the data. According to the research of (Campos, et al., 2015) this process allows mitigating errors caused by electromagnetic noise, sample temperature and humidity. For this, a ***filtering*** and a method called ***treatment with respect to baseline***. 
+ In the analysis carried out, it was considered that the response of the sensors should be conditioned for the digital processing of the data. According to the research of (Campos, et al., 2015) this process allows mitigating errors caused by electromagnetic noise, sample temperature and humidity. For this, a ***filtering*** and a method called ***treatment with respect to baseline***. 
 
 ### * **Filter**
-#### After performing a Fourier analysis of the sensor response, I know determined the use of a digital filter of order one because a temporal analysis of sensor responses and what is finally desired is soften this answer This filter is applied independently to each sensor.
+ After performing a Fourier analysis of the sensor response, I know determined the use of a digital filter of order one because a temporal analysis of sensor responses and what is finally desired is soften this answer This filter is applied independently to each sensor.
 
 
 ### * **Treatment with respect to baseline**
 
 #### **Differential method**
-#### It is the process in which the baseline value (reference) is subtracted from the sensor response,(Gutierrez-Osuna, Nagle, 1999). In this way, additive errors in voltage pulses are eliminated (Pearce et al., 2006).
+ It is the process in which the baseline value (reference) is subtracted from the sensor response,(Gutierrez-Osuna, Nagle, 1999). In this way, additive errors in voltage pulses are eliminated (Pearce et al., 2006).
 
 
 #### This process is given by the following equation
